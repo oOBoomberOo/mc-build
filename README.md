@@ -36,6 +36,6 @@ $ npm i -g mc-build
 
 ### documentation
 
-[https://www.notion.so/mc-build-docs-aefab309c8d3492982296abbb1853826](docs)
+[https://mcbuild.dev/docs](docs)
 
 ### I as well as the mc-build project am not affiliated with Mojang in any way.
