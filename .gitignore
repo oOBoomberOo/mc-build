@@ -6,3 +6,5 @@ data/
 src/
 .cache
 unix-appdata-store/
+test
+empty_test/

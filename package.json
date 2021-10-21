@@ -1,6 +1,6 @@
 {
     "name": "mc-build",
-    "version": "2.11.7",
+    "version": "2.14.0",
     "main": "./lib/core/check_for_lang_updates.js",
     "license": "MIT",
     "dependencies": {
